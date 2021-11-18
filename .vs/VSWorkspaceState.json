@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MarcarConsulta",
+    "\\MarcarConsulta\\MarcarConsulta",
+    "\\MarcarConsulta\\MarcarConsulta\\Models"
   ],
-  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
