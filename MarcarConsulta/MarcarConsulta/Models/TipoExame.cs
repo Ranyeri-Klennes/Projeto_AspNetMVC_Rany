@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace MarcarConsulta.Models
 {
-    public class TiposExames
+    public class TipoExame
     {
         public int Id { get; set; }
         public string Nome  { get; set; }

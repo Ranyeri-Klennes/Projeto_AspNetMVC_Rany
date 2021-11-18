@@ -1,0 +1,8 @@
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.csproj.AssemblyReference.cache
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.AssemblyInfoInputs.cache
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.AssemblyInfo.cs
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.csproj.CoreCompileInputs.cache
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.RazorAssemblyInfo.cache
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.RazorAssemblyInfo.cs

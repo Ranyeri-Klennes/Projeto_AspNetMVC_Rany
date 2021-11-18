@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ranye\\OneDrive\\Área de Trabalho\\Projeto_AspNetMVC_Rany\\MarcarConsulta\\MarcarConsulta\\MarcarConsulta.csproj": {}
+    "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\Projeto_ASPNETMVC_Rany\\MarcarConsulta\\MarcarConsulta\\MarcarConsulta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ranye\\OneDrive\\Área de Trabalho\\Projeto_AspNetMVC_Rany\\MarcarConsulta\\MarcarConsulta\\MarcarConsulta.csproj": {
+    "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\Projeto_ASPNETMVC_Rany\\MarcarConsulta\\MarcarConsulta\\MarcarConsulta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ranye\\OneDrive\\Área de Trabalho\\Projeto_AspNetMVC_Rany\\MarcarConsulta\\MarcarConsulta\\MarcarConsulta.csproj",
+        "projectUniqueName": "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\Projeto_ASPNETMVC_Rany\\MarcarConsulta\\MarcarConsulta\\MarcarConsulta.csproj",
         "projectName": "MarcarConsulta",
-        "projectPath": "C:\\Users\\ranye\\OneDrive\\Área de Trabalho\\Projeto_AspNetMVC_Rany\\MarcarConsulta\\MarcarConsulta\\MarcarConsulta.csproj",
-        "packagesPath": "C:\\Users\\ranye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ranye\\OneDrive\\Área de Trabalho\\Projeto_AspNetMVC_Rany\\MarcarConsulta\\MarcarConsulta\\obj\\",
+        "projectPath": "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\Projeto_ASPNETMVC_Rany\\MarcarConsulta\\MarcarConsulta\\MarcarConsulta.csproj",
+        "packagesPath": "C:\\Users\\COMERCIAL02\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\COMERCIAL02\\Desktop\\myDocuments\\WORKSPACE\\Projeto_ASPNETMVC_Rany\\MarcarConsulta\\MarcarConsulta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ranye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\COMERCIAL02\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
