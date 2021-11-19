@@ -15,7 +15,7 @@ namespace MarcarConsulta.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Consulta;Data Source=RANYLECAVALCANT");
+            optionsBuilder.UseSqlServer("Server=mssql.humbertobioca.com; Database=humberto2109292130_rany; User ID=humberto2109292130_rany; Password=bV_8sy01; Trusted_Connection=False");
         }
     }
 }

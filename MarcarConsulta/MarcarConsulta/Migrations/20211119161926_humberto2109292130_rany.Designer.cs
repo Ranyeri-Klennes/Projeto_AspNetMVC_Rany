@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MarcarConsulta.Migrations
 {
     [DbContext(typeof(PacienteContext))]
-    [Migration("20211119003136_Consulta")]
-    partial class Consulta
+    [Migration("20211119161926_humberto2109292130_rany")]
+    partial class humberto2109292130_rany
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

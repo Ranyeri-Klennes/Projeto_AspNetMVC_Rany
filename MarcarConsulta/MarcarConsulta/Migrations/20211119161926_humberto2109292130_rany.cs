@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace MarcarConsulta.Migrations
 {
-    public partial class Consulta : Migration
+    public partial class humberto2109292130_rany : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
