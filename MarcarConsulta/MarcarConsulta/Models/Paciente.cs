@@ -14,6 +14,6 @@ namespace MarcarConsulta.Models
         public string Genero { get; set; }
         public string Telefone { get; set; }
         public string Email { get; set; }
-        public int ExameId { get; set; }
+        public int ExameId { get; set; } 
     }
 }
