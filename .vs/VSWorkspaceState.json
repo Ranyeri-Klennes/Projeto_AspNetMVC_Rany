@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MarcarConsulta",
+    "\\MarcarConsulta\\MarcarConsulta",
+    "\\MarcarConsulta\\MarcarConsulta\\Data",
+    "\\MarcarConsulta\\MarcarConsulta\\Models"
   ],
-  "SelectedNode": "\\MarcarConsulta.sln",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\MarcarConsulta\\MarcarConsulta.sln",
+  "PreviewInSolutionExplorer": true
 }

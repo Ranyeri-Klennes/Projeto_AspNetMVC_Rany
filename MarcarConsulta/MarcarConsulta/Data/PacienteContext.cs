@@ -17,5 +17,12 @@ namespace MarcarConsulta.Data
         {
             optionsBuilder.UseSqlServer("Server=mssql.humbertobioca.com; Database=humberto2109292130_rany; User ID=humberto2109292130_rany; Password=bV_8sy01; Trusted_Connection=False");
         }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<PacienteExame>(entity =>
+            {
+                entity.HasKey(e => new { e.ExameId, e.PacienteId });
+            });
+        }
     }
 }

@@ -8,12 +8,13 @@ namespace MarcarConsulta.Models
     public class Paciente
     {
         public int Id { get; set; }
-        public string Nome { get; set; }
-        public int CPF { get; set; }
+        public string Nome { get; set; }//> Até 100 chars.
+        public int CPF { get; set; }//> CPF válido e se já está cadastrado.
         public DateTime DataNascimento { get; set; }
         public string Genero { get; set; }
-        public string Telefone { get; set; }
-        public string Email { get; set; }
-        public int ExameId { get; set; } 
+        public string Telefone { get; set; }//> Número válido.
+        public string Email { get; set; }// E-mail válido.
+
+        public List<PacienteExame> PacientesExames { get; set; } 
     }
 }

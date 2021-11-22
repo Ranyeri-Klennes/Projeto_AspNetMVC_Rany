@@ -152,3 +152,15 @@ C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\Marcar
 C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\ref\MarcarConsulta.dll
 C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.pdb
 C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\MarcarConsulta.genruntimeconfig.cache
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.AI.DependencyCollector.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.AI.EventCounterCollector.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.AI.WindowsServer.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll

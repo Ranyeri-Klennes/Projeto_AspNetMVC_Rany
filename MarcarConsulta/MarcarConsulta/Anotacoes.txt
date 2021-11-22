@@ -1,5 +1,0 @@
-﻿Entidade-Relacionameto:
-exame 1-n paciente
-exame n-1 tipoExame
-
-Vídeo Referencial: https://www.youtube.com/watch?v=ipbSwv09dDU&list=WL&index=5&t=416s
