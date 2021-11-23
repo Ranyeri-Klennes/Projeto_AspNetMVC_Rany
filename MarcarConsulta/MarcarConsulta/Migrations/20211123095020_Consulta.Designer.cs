@@ -4,14 +4,16 @@ using MarcarConsulta.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace MarcarConsulta.Migrations
 {
     [DbContext(typeof(PacienteContext))]
-    partial class PacienteContextModelSnapshot : ModelSnapshot
+    [Migration("20211123095020_Consulta")]
+    partial class Consulta
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
