@@ -3,9 +3,10 @@
     "",
     "\\MarcarConsulta",
     "\\MarcarConsulta\\MarcarConsulta",
+    "\\MarcarConsulta\\MarcarConsulta\\Controllers",
     "\\MarcarConsulta\\MarcarConsulta\\Data",
     "\\MarcarConsulta\\MarcarConsulta\\Models"
   ],
-  "SelectedNode": "\\MarcarConsulta\\MarcarConsulta\\Models\\PacienteExame.cs",
+  "SelectedNode": "\\MarcarConsulta\\MarcarConsulta\\Startup.cs",
   "PreviewInSolutionExplorer": true
 }

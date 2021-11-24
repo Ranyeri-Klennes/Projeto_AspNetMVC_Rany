@@ -16,7 +16,8 @@ namespace MarcarConsulta.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            return View(await _contexto.Pacientes.ToListAsync());
+            var task = await _contexto.Pacientes.ToListAsync();
+            return View(task);
         }
         
         [HttpGet]
@@ -26,7 +27,7 @@ namespace MarcarConsulta.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CadastrarPaciente(PacienteContext paciente)
+        public async Task<IActionResult> CadastrarPaciente(Paciente paciente)
         {
             if (true)
             {
