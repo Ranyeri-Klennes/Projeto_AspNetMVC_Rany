@@ -52,7 +52,7 @@ namespace MarcarConsulta
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Paciente}/{action=Index}/{id?}");
             });
         }
     }

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<MarcarConsulta.Models.TipoExame>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="CadastrarTipoExame">Novo Tipo de Exame</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExameId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExameId)
+            </td>
+            <td>
+                <a asp-action="AtualizarTipoExame" asp-route-id="@item.Id">Editar Tipo de Exames</a> |
+                <a asp-action="ExcluirTipoExame" asp-route-id="@item.Id">Excluir Tipo de Exame</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

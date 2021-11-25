@@ -1,0 +1,46 @@
+﻿@model IEnumerable<MarcarConsulta.Models.Exame>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Exames</h1>
+
+<p>
+    <a asp-action="CadastrarExame">Novo Exame</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Obs)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoExameId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Obs)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoExameId)
+            </td>
+            <td>
+                <a asp-action="AtualizarExame" asp-route-id="@item.Id">Atualizar Exame</a> |
+                <a asp-action="ExcluirExame" asp-route-id="@item.Id">Excluir Exame</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

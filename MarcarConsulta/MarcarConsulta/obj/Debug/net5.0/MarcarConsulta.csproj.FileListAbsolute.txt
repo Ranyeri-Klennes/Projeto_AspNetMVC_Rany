@@ -242,3 +242,11 @@ C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\Marcar
 C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\Paciente\CadastrarPaciente.cshtml.g.cs
 C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\Paciente\AtualizarPaciente.cshtml.g.cs
 C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\Paciente\ExcluirPaciente.cshtml.g.cs
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\Exame\Index.cshtml.g.cs
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\Exame\CadastrarExame.cshtml.g.cs
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\Exame\AtualizarExame.cshtml.g.cs
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\Exame\ExcluirExame.cshtml.g.cs
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\TipoExame\Index.cshtml.g.cs
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\TipoExame\CadastrarTipoExame.cshtml.g.cs
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\TipoExame\AtualizarTipoExame.cshtml.g.cs
+C:\Users\COMERCIAL02\Desktop\myDocuments\WORKSPACE\Projeto_ASPNETMVC_Rany\MarcarConsulta\MarcarConsulta\obj\Debug\net5.0\Razor\Views\TipoExame\ExcluirTipoExame.cshtml.g.cs
